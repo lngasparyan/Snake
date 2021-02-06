@@ -1,1 +1,1 @@
-# Snake
+<img src="Graphics/snake.jpg"/>
